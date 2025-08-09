@@ -66,7 +66,7 @@ export default function TablePay(props) {
                 9275431
                 <Chip
                   onClick={() => {
-                    copyToClipBoard(8334020);
+                    copyToClipBoard(9275431);
                   }}
                   size="lg"
                   variant="solid"
@@ -96,4 +96,5 @@ export default function TablePay(props) {
     </Card>
   );
 }
+
 
